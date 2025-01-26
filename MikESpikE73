@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Button</title>
+</head>
+<body style="margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f9f9f9;">
+    <a href="https://wa.me/201152813754?text=Hello%21+I+am+interested+in+the+part-time+job%2C+can+we+proceed+with+the+interview%3F" aria-label="Chat on WhatsApp">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsAppButtonGreenLarge.svg" alt="Chat on WhatsApp" style="max-width: 100%; height: auto;">
+    </a>
+</body>
+</html>
